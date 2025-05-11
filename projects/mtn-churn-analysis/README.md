@@ -1,14 +1,14 @@
-# MTN Nigeria Churn Analysis 📊
+# MTN Nigeria Churn Analysis 📉
 
-This project analyzes churn patterns from MTN Nigeria's Q1 2025 customer data using Excel.
+This Excel dashboard analyzes customer churn for MTN Nigeria (Q1 2025).  
+It explores churn patterns by age, device, state, and customer satisfaction.
 
-## Key Insights
-- Adults (36–65) churned the most
-- Top churn drivers: High call tariffs & better offers from competitors
-- SIM card users showed highest churn
-- Yobe, Plateau & Oyo are top revenue states
+### 🔍 Key Insights:
+- Highest churn came from customers aged 36–65
+- High call tariffs and competitor offers were top churn drivers
+- Adults mostly churned using mobile SIM cards
 
-## Deliverables
-- Cleaned dataset with formulas
-- Interactive Excel dashboard
-- Pivot table breakdowns
+### 📁 Files Included:
+- Cleaned Excel workbook with pivot tables
+- Dashboard image
+
