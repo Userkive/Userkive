@@ -12,3 +12,8 @@ It explores churn patterns by age, device, state, and customer satisfaction.
 - Cleaned Excel workbook with pivot tables
 - Dashboard image
 
+- ## 📌 Tools Used:
+- Microsoft Excel
+- Pivot Tables & Slicers
+- Custom Formulas & Charts
+
