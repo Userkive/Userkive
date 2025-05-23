@@ -1,0 +1,43 @@
+# Ecommerce Consumer Behavior Analysis – 2025
+
+📊 Tool Used: Excel  
+📁 Deliverables: KPI Dashboard, Final Business Report
+
+## 🔍 Project Overview
+This project analyzes consumer behavior data from a 2025 ecommerce dataset to uncover purchasing patterns, churn risks, and satisfaction trends. The goal was to produce actionable insights for strategic decision-making.
+
+## 🎯 Objectives
+- Identify churn risk factors
+- Understand discount sensitivity
+- Segment customers by behavior and satisfaction
+- Visualize key KPIs through a dashboard
+
+## 📌 Key Insights
+- Churn Risk: 26% overall, with Books & Office Supplies highest
+- Customer Satisfaction: Avg = 5/10
+- High Return Rates linked to low satisfaction
+- Discount Sensitivity: 52% use discounts; these customers spend less on average
+
+## 📈 Dashboard Features
+- Churn Risk by Category
+- Return Rate by Product Category
+- Average Order Value (AOV)
+- Discount Sensitivity Impact
+- Customer Satisfaction by Channel
+
+📎 See: [`Ecommerce_Dashboard_2025.xlsx`](./Ecommerce_Dashboard_2025.xlsx)
+
+## 📚 Methods
+- Data cleaning & wrangling in Excel
+- KPI creation with formulas & pivot tables
+- Data visualization with pivot charts and conditional formatting
+- Business reporting structured in 4 project phases
+
+## 🧠 What I Learned
+- How to calculate customer churn indicators
+- Effective use of Excel for segmentation & what-if analysis
+- Visual storytelling with dashboards
+
+---
+
+🔗 Back to [My Portfolio Repository](../)
