@@ -1,0 +1,24 @@
+# Ecommerce Consumer Behavior Analysis
+
+## Objective
+Analyze ecommerce consumer behavior to uncover insights into purchase patterns, satisfaction levels, and loyalty indicators.
+
+## Tools Used
+- Microsoft Excel
+- Pivot Tables
+- Conditional Formatting
+- Charts (Bar, Pie, Scatter)
+- What-If Analysis
+
+## Key Insights
+- Identified segments with highest churn risk.
+- Uncovered demographic trends linked to higher satisfaction and loyalty.
+- Created dashboards summarizing KPIs.
+
+## Files
+- `data/ecommerce_data.xlsx`
+- `visuals/dashboard.png`
+- `notebooks/analysis-summary.md`
+
+## Outcome
+This project demonstrates the ability to analyze customer data, extract insights, and present findings using Excel dashboards and storytelling.
