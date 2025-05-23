@@ -5,13 +5,7 @@
 📁 **Files Included:** Excel Dashboard,Project Summary
 
 ## 📌 Project Overview
-This project analyzes a fictional ecommerce dataset to extract business insights from customer behavior patterns. The goal is to identify churn risks, satisfaction levels, and purchasing trends to guide ecommerce strategy.
-
-## 📈 Key Business Questions
-- Which customer segments are at risk of churn?
-- What drives satisfaction and loyalty?
-- How do return rates and discounts influence purchasing?
-- What are the top categories with high churn risk?
+This project analyzes an ecommerce dataset to extract business insights from customer behavior patterns. The goal is to identify churn risks, satisfaction levels, and purchasing trends to guide ecommerce strategy.
 
 ## 🔍 Analytical Phases
 - **Phase 1:** Data Cleaning & Preparation
@@ -25,16 +19,8 @@ This project analyzes a fictional ecommerce dataset to extract business insights
 - Customer Satisfaction Index (CSI): 5  
 - Churn Risk: 26%
 
-## 📊 Visuals in Dashboard
-- Churn % by Category (Bar)
-- Satisfaction by Purchase Channel (Column)
-- Return Rate by Category (Line)
-- Discount Sensitivity vs Spending (Scatter)
-
 ## 📎 Deliverables
 - `Ecommerce_Dashboard_2025.xlsx`
-- `Ecommerce_Report_2025.pdf`  
-(Include .md if hosted in GitHub Pages)
 
 ---
 
