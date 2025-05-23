@@ -19,9 +19,6 @@ This project analyzes an ecommerce dataset to extract business insights from cus
 - Customer Satisfaction Index (CSI): 5  
 - Churn Risk: 26%
 
-## 📎 Deliverables
-- `Ecommerce_Dashboard_2025.xlsx`
-
 ---
 
 **Status:** ✅ Completed – May 2025  
