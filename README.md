@@ -5,7 +5,7 @@ Welcome to my data analytics portfolio! I use Excel, SQL, and Python to explore 
 ## 📁 Featured Projects
 
 - [MTN Nigeria Churn Analysis](./projects/mtn-churn-analysis)
-- Ecommerce Consumer Behavior Analysis (./tree/main/Ecommerce_Consumer_Behavior)
+- Ecommerce Consumer Behavior Analysis (./projectd/tree/main/Ecommerce_Consumer_Behavior)
 - More projects coming soon!
 
 ## 📬 Contact
