@@ -1,24 +1,57 @@
-# Ecommerce Consumer Behavior Analysis
+# Ecommerce Consumer Behavior Analysis (2025)
 
-## Objective
-Analyze ecommerce consumer behavior to uncover insights into purchase patterns, satisfaction levels, and loyalty indicators.
+📊 **Project Type**: Excel Dashboard  
+📁 **Data Source**: Kaggle Ecommerce Consumer Behavior Dataset  
+📅 **Year**: 2025  
+🔍 **Focus**: Customer segmentation, churn risk, satisfaction, and behavioral trends  
 
-## Tools Used
-- Microsoft Excel
-- Pivot Tables
-- Conditional Formatting
-- Charts (Bar, Pie, Scatter)
-- What-If Analysis
+---
 
-## Key Insights
-- Identified segments with highest churn risk.
-- Uncovered demographic trends linked to higher satisfaction and loyalty.
-- Created dashboards summarizing KPIs.
+## 📈 Overview
 
-## Files
-- `data/ecommerce_data.xlsx`
-- `visuals/dashboard.png`
-- `notebooks/analysis-summary.md`
+This project explores behavioral insights from ecommerce customer. Using Excel, i analyzed KPIs, patterns in satisfaction, return rates, churn risk, and category-level behavior.
 
-## Outcome
-This project demonstrates the ability to analyze customer data, extract insights, and present findings using Excel dashboards and storytelling.
+---
+
+## 🛠 Tools & Techniques
+- Excel (Pivot Tables, What-If Analysis, KPIs, Charts)
+- Dashboard visualizations (bar, column, line)
+- Custom segmentation and risk classification
+
+---
+
+## 🔢 KPIs
+| KPI | Value |
+|-----|-------|
+| Average Purchase Amount | 275.1 |
+| Average Order Value (AOV) | 275.06 |
+| Customer Satisfaction Index (CSI) | 5 |
+| Churn Risk % | 26% |
+| Discount Conversion Rate | 52% |
+| Loyalty Engagement Score | 0.6 |
+
+---
+
+## 🧠 Insights
+- **Churn Risk** is highest in Office Supplies (50%) and Books (41%)
+- **Return Rate** impacts churn the most when customer satisfaction is below 5
+- Customers influenced by **social media** (27%) and **ads** (27%) show slightly higher churn potential
+- Online-only customers rate satisfaction slightly lower than in-store shoppers
+
+---
+
+## 📊 Dashboard
+
+The Excel dashboard includes:
+- Churn Risk % by Category
+- Return Rate vs. Satisfaction
+- Discount Sensitivity Trends
+- Customer Satisfaction by Channel
+- Pivot-based customer segmentation
+
+---
+
+## 📌 Status
+
+✅ Completed  
+📅 May 2025
